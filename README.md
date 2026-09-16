@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Afarel Darmawan</h1>
+<h1 align="center">Hi 👋, I'm M Afarel Darmawan</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
 - 🔭 I’m currently working on [bacadulu-web](https://github.com/mfajaristianto/bacadulu-web)
