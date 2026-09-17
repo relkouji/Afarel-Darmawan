@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [bacadulu-web](https://github.com/mfajaristianto/bacadulu-web)
 
-- 👯 I’m looking to collaborate on [Tebasan-Balas-Dendam](https://github.com/izzadarren/Tebasan-Balas-Dendam)
-
 - 📫 How to reach me **Farel170408@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
